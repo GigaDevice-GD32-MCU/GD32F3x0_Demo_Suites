@@ -1,0 +1,197 @@
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F350RBT6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 128 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=48485
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x08000C0C, MSP: 0x20000E38
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000B5C, MSP: 0x20000E20
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000B5C, MSP: 0x20000E20
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000B5C, MSP: 0x20000E20
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x08000C0C, MSP: 0x20000E38
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000B5C, MSP: 0x20000E20
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F350RBT6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 128 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=49055
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x08000C0C, MSP: 0x20000E38
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000C12, MSP: 0x20000E30
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000C16, MSP: 0x20000E30
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x41000000, PC: 0x08000C1A, MSP: 0x20000E30
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F350RBT6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 128 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=55819
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x0800116C, MSP: 0x20000CC8
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x0800124E, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001256, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x08001264, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x4100002C, PC: 0x0800132E, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001360, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001374, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x4100002C, PC: 0x0800132E, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001360, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001374, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x4100002C, PC: 0x0800132E, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001360, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x0800126E, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08001270, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x0800116C, MSP: 0x20000CC8
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001256, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001274, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x0800116C, MSP: 0x20000CC8
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001256, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001374, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001374, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001362, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08001272, MSP: 0x20000CA0
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F350RBT6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 128 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=58552
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x0800116C, MSP: 0x20000CC8
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001258, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x0100002C, PC: 0x08001370, MSP: 0x20000C78
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x0800127A, MSP: 0x20000CA0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001258, MSP: 0x20000CA0
+Info: Debug terminated
